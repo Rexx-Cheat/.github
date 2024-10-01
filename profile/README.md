@@ -6,7 +6,7 @@
 <p align="center"><em>Illuminating the Path to Crypto Prosperity</em></p>
 
 <p align="center">
-  <a href="https://github.com/Rexx-Cheat"><img src="https://img.shields.io/badge/GitHub-Rexx--Cheat-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/RexxCheat"><img src="https://img.shields.io/badge/GitHub-Rexx--Cheat-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://rexxcheat.site/"><img src="https://img.shields.io/badge/Website-RexxCheat-00A86B?style=for-the-badge&logo=web" alt="Website"></a>
   <a href="https://t.me/RexxCheat"><img src="https://img.shields.io/badge/Telegram-RexxCheat-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Channel"></a>
   <a href="https://t.me/RexxLounge"><img src="https://img.shields.io/badge/Telegram-RexxLounge-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Lounge"></a>
